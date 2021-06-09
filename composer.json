@@ -1,15 +1,15 @@
 {
-    "name": "cwhite92/b2-sdk-php",
+    "name": "gastjustin/b2-sdk-php",
     "description": "A SDK for working with B2 cloud storage.",
     "keywords": ["b2", "storage", "backblaze", "cloud", "filesystem", "backup"],
-    "homepage": "https://github.com/cwhite92/b2-sdk-php",
+    "homepage": "https://github.com/gastjustin/b2-sdk-php",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Chris White",
-            "email": "chris@cwhite.me",
-            "homepage": "https://cwhite.me"
+            "name": "Justin Gast",
+            "email": "gast.justin@gmail.com",
+            "homepage": ""
         }
     ],
     "require": {
